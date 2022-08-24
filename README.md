@@ -14,3 +14,4 @@ This project goes over all of the fundamentals of React including -
 8. Forms
 9. Context API
 10. HTTP Requests
+11. Routing
