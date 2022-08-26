@@ -8,7 +8,7 @@
 
 body {
   font-family: 'Poppins', sans-serif;
-  background-color: #0b0014;
+  background-color: #1d0035;
   color: #fff;
   line-height: 1.6;
 }
@@ -190,6 +190,7 @@ input:focus {
 .about-link {
   display: flex;
   justify-content: flex-end;
+  margin-top: 100%;
 }
 
 /* FIX: Remove position: absolute to keep about icon at the bottom of the
