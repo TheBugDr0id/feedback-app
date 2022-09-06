@@ -1,5 +1,7 @@
 # React Feedback App
 
+Project URL - https://merry-pavlova-34083e.netlify.app/
+
 This is a project which allows users to add, update and delete feedback. It uses a mock REST API with a JSON-server.
 
 This project goes over all of the fundamentals of React including -
